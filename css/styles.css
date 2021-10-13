@@ -12,3 +12,8 @@
   font-style: italic;
   font-size: 70%;
 }
+
+.box {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
